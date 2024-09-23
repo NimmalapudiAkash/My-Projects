@@ -1,6 +1,3 @@
-# hello-world
-print("Hello World")
-
 # Coffee Machine Project
 
 This is a simple coffee machine simulation built with Python. The coffee machine offers three types of coffee: `latte`, `espresso`, and `cappuccino`. The user can insert coins, and the machine will prepare the coffee if there are enough resources available.
