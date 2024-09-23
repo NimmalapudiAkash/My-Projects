@@ -15,7 +15,7 @@ This is a simple coffee machine simulation built with Python. The coffee machine
 ## How to Use
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/coffee-machine.git
+    git clone https://github.com/NimmalapudiAkash/My-Projects/blob/main/coffee%20manchine/co.py
     cd coffee-machine
     ```
 
