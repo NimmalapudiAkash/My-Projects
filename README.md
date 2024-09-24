@@ -1,4 +1,5 @@
-CAFE RESTRO 
+Cafe Restro
+
 
 This is a simple Python program that simulates an ordering system for a restaurant. The program takes customer orders from a pre-defined menu and calculates the total amount. The customer can add one or two items to their order.
 
@@ -21,7 +22,7 @@ This is a simple Python program that simulates an ordering system for a restaura
 ## How to Run
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/restaurant-ordering-system.git
+    git clone https://github.com/NimmalapudiAkash/My-Projects/blob/main/CAFE%20Restro/memu.py
     ```
 2. Navigate to the directory:
     ```bash
@@ -43,6 +44,9 @@ This is a simple script that runs with Python 3.x. No additional libraries are r
 
 ## License
 This project is licensed under the MIT License.
+
+
+
 
 
 
