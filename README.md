@@ -1,4 +1,4 @@
-Cafe Restro
+# Cafe Restro
 
 
 This is a simple Python program that simulates an ordering system for a restaurant. The program takes customer orders from a pre-defined menu and calculates the total amount. The customer can add one or two items to their order.
