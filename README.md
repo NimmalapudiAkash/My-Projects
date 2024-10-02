@@ -11,7 +11,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/todo-list-app.git
+git clone (https://github.com/NimmalapudiAkash/My-Projects/blob/main/do%20list/python.py/main.py)
 Navigate to the project directory:
 
 bash
