@@ -1,3 +1,53 @@
+# Simple To-Do List Application
+A simple console-based To-Do List application written in Python. This application allows users to add, view, mark tasks as completed, and delete tasks.
+
+Features
+Add Task: Add a new task to your To-Do list.
+View Tasks: View all tasks with their current status (Pending/Completed).
+Mark Task as Completed: Mark a specific task as completed.
+Delete Task: Delete a specific task from the list.
+How to Run
+Clone the repository:
+
+bash
+Copy code
+git clone https://github.com/yourusername/todo-list-app.git
+Navigate to the project directory:
+
+bash
+Copy code
+cd todo-list-app
+Run the application:
+
+bash
+Copy code
+python todo.py
+Menu Options
+Add a new task: Enter a task description to add to the list.
+View tasks: Displays all tasks along with their status (Pending/Completed).
+Mark task as completed: Choose a task to mark as completed.
+Delete a task: Select a task to remove from the list.
+Exit: Close the application.
+Example Usage
+mathematica
+Copy code
+To-Do List Application
+1. Add a new task
+2. View tasks
+3. Mark task as completed
+4. Delete a task
+5. Exit
+
+Enter your choice: 1
+Enter the new task: Buy groceries
+Task 'Buy groceries' added successfully!
+Future Enhancements
+Add task prioritization.
+Implement saving and loading tasks from a file.
+Add a GUI interface.
+
+
+
 # Cafe Restro
 
 
